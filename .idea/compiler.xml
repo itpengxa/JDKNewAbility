@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jdk20" />
+        <module name="jdk14" />
+        <module name="jdk15" />
+        <module name="jdk16" />
+        <module name="jdk17" />
+        <module name="jdk10" />
+        <module name="jdk21" />
+        <module name="jdk11" />
+        <module name="jdk12" />
+        <module name="jdk8" />
+        <module name="jdk13" />
+        <module name="jdk9" />
+        <module name="jdk18" />
+        <module name="jdk19" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jdk12" options="--enable-preview" />
+      <module name="jdk13" options="--enable-preview" />
+      <module name="jdk14" options="--enable-preview" />
+      <module name="jdk15" options="--enable-preview" />
+      <module name="jdk16" options="--enable-preview" />
+      <module name="jdk17" options="--enable-preview" />
+      <module name="jdk19" options="--enable-preview" />
+      <module name="jdk20" options="--enable-preview" />
+      <module name="jdk21" options="--enable-preview" />
+    </option>
+  </component>
+</project>

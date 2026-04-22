@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.example</groupId>
+    <artifactId>jdk-new-ability</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <name>JDK New Ability</name>
+    <description>Demo project for JDK 8-21 new features</description>
+
+    <modules>
+        <module>jdk8</module>
+        <module>jdk9</module>
+        <module>jdk10</module>
+        <module>jdk11</module>
+        <module>jdk12</module>
+        <module>jdk13</module>
+        <module>jdk14</module>
+        <module>jdk15</module>
+        <module>jdk16</module>
+        <module>jdk17</module>
+        <module>jdk18</module>
+        <module>jdk19</module>
+        <module>jdk20</module>
+        <module>jdk21</module>
+    </modules>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.plugin.version>3.11.0</maven.compiler.plugin.version>
+        <exec.maven.plugin.version>3.1.0</exec.maven.plugin.version>
+    </properties>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <version>${maven.compiler.plugin.version}</version>
+                </plugin>
+                <plugin>
+                    <groupId>org.codehaus.mojo</groupId>
+                    <artifactId>exec-maven-plugin</artifactId>
+                    <version>${exec.maven.plugin.version}</version>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+</project>

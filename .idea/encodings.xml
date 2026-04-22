@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/jdk10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk10/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk11/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk12/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk12/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk13/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk13/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk14/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk14/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk15/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk15/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk16/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk16/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk17/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk17/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk18/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk18/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk19/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk19/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk20/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk20/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk21/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk21/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdk9/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
